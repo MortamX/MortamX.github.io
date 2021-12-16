@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<iframe src="/assets/resume_web.pdf" height="1100" width="100%"></iframe>
+<iframe src="/assets/resume_web.pdf" width="100%"></iframe>
 
 <div class="container"> 
-  <iframe class="responsive-iframe" src="/assets/resume_web.pdf"></iframe>
+  <iframe class="responsive-iframe" src="/assets/resume_web.pdf"  width="100%"></iframe>
 </div>
