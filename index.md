@@ -4,7 +4,7 @@ layout: home
 
 Born in Mexico, I grew up in the French countryside (Gers) before successfully entering Ecole Polytechnique in 2019. I am now a 3rd Year student specializing in Applied Mathematics and Computer Science. This strong scientific basis brought me to move toward Artificial Intelligence by learning its cognitive inspirations, optimizing with Mathematics and creating with Machine Learning.
 
-<hr style="height:1px;border-width:0;color:#C31818;background-color:#C31818;margin-left:40%;margin-right:40%">
+<hr style="height:1px;border-width:0;background-color:#C31818;margin-left:40%;margin-right:40%;margin-top:40px;margin-bottom:40px">
 
 ## <span style="color: #06467D;">Education</span>
 
@@ -15,7 +15,7 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 ### <strong>Lycée Pierre de Fermat</strong>, B.S. Mathematics, Physics, Chemistry
 #### <i>Toulouse, France</i>
 
-<hr style="height:1px;border-width:0;color:#C31818;background-color:#C31818;margin-left:40%;margin-right:40%">
+<hr style="height:1px;border-width:0;background-color:#C31818;margin-left:40%;margin-right:40%;margin-top:40px;margin-bottom:40px">
 
 ## <span style="color: #06467D;">Experience</span>
 
@@ -40,4 +40,4 @@ Designing a surveillance system against drone attacks based on drone networks. I
 
 C++ | Java | Python | RRT* | Genetic Algorithms | Markov Chains
 
-<hr style="height:1px;border-width:0;color:#C31818;background-color:#C31818;margin-left:40%;margin-right:40%">
+<hr style="height:1px;border-width:0;background-color:#C31818;margin-left:40%;margin-right:40%;margin-top:40px;margin-bottom:40px">
