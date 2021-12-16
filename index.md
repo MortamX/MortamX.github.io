@@ -6,32 +6,36 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 
 ## <span style="color: #06467D;">Education</span>
 
-### Ecole Polytechnique, M.Sc. Applied Mathematics
-##### <i>Palaiseau, France</i>
+### <strong>Ecole Polytechnique<\strong>, M.Sc. Applied Mathematics
+#### <i>Palaiseau, France</i>
 
 Top 1 scientific university in France and one of the best in Europe. Specializing in Applied Mathematics and Computer Science.
 
 
-### Lycée Pierre de Fermat, B.S. Mathematics, Physics, Chemistry (Toulouse, France)
+### <strong>Lycée Pierre de Fermat<\strong>, B.S. Mathematics, Physics, Chemistry
+#### <i>Toulouse, France</i>
 
 Top 10 French “classes preparatoires” two years of intense scientific classes (around 17 hours of work a day). Participated to the International Chemistry Olympiad (IChO) preparation for the French team.
 
 
-## <span style="color: #134AAA;">Experience</span>
+## <span style="color: #06467D;">Experience</span>
 
-### <span style="color: #D00000;">Research Project</span>, LIMSI (Orsay, France)
+### Research Project, <strong>LIMSI<\strong>
+#### <i>Orsay, France</i>
 
 I created my own solution for the word alignment problem called Optimal Transport for Cross-lingual Word Alignments.
 
 Skip-gram | Optimal Transport | Sinkhorn | Wasserstein GAN | NLP
 
-### AI Intern, Fujitsu (Tokyo, Japan)
+### AI Intern, <strong>Fujitsu<\strong>
+#### <i>Tokyo, Japan</i>
 
 Developed numerous models, losses and metrics with great results. I worked on state of the art research at the crossroads of Computer Vision and NLP on a subject close to Vid2Text.
 
 Optical-flow | Transformers | Attention | CNN | TCN | Pose estimation
 
-### Research Project, MBDA (Paris, France)
+### Research Project, <strong>MBDA<\strong>
+#### <i>Paris, France</i>
 
 Designing a surveillance system against drone attacks based on drone networks. I applied biological research on wolves behavior to the project.
 
