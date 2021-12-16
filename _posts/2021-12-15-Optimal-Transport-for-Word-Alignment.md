@@ -7,4 +7,4 @@ categories: jekyll update
 
 From September 2021 to December 2021, I pursued a Research Project at LIMSI (Orsay, France) supervized by François Yvon. He introduced me to translation problems in NLP before I found my research subject. After going through numerous papers, I created my own solution for the word alignment problem called Optimal Transport for Cross-lingual Word Alignments.
 
-<iframe src="/assets/report.pdf" height="1100" width="800"></iframe>
+<iframe src="/assets/report.pdf" height="1200" width="800"></iframe>
