@@ -4,7 +4,7 @@ layout: home
 
 Born in Mexico, I grew up in the French countryside (Gers) before successfully entering Ecole Polytechnique in 2019. I am now a 3rd Year student specializing in Applied Mathematics and Computer Science. This strong scientific basis brought me to move toward Artificial Intelligence by learning its cognitive inspirations, optimizing with Mathematics and creating with Machine Learning.
 
-## <span style="color: red;">Education</span>
+## <span style="color: #06467D;">Education</span>
 
 ### Ecole Polytechnique, (Palaiseau, France)
 
@@ -16,7 +16,7 @@ Top 1 scientific university in France and one of the best in Europe. Specializin
 Top 10 French “classes preparatoires” two years of intense scientific classes (around 17 hours of work a day. Participated to the International Chemistry Olympiad (IChO) preparation for the French team.
 
 
-## Experience
+## <span style="color: #2B3D5E;">Experience</span>
 
 ### Research Project, LIMSI (Orsay, France)
 
