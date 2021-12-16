@@ -15,25 +15,25 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 ### <strong>Lycée Pierre de Fermat</strong>, B.S. Mathematics, Physics, Chemistry
 #### <i>Toulouse, France</i>
 
-<hr>
+<hr style="width:50%;color:gray;margin-left:0">
 
 ## <span style="color: #06467D;">Experience</span>
 
-### Research Project, <strong>LIMSI<\strong>
+### Research Project, <strong>LIMSI</strong>
 #### <i>Orsay, France</i>
 
 I created my own solution for the word alignment problem called Optimal Transport for Cross-lingual Word Alignments.
 
 Skip-gram | Optimal Transport | Sinkhorn | Wasserstein GAN | NLP
 
-### AI Intern, <strong>Fujitsu<\strong>
+### AI Intern, <strong>Fujitsu</strong>
 #### <i>Tokyo, Japan</i>
 
 Developed numerous models, losses and metrics with great results. I worked on state of the art research at the crossroads of Computer Vision and NLP on a subject close to Vid2Text.
 
 Optical-flow | Transformers | Attention | CNN | TCN | Pose estimation
 
-### Research Project, <strong>MBDA<\strong>
+### Research Project, <strong>MBDA</strong>
 #### <i>Paris, France</i>
 
 Designing a surveillance system against drone attacks based on drone networks. I applied biological research on wolves behavior to the project.
