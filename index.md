@@ -6,16 +6,12 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 
 ## <span style="color: #06467D;">Education</span>
 
-### <strong>Ecole Polytechnique<\strong>, M.Sc. Applied Mathematics
+### <strong>Ecole Polytechnique</strong>, M.Sc. Applied Mathematics
 #### <i>Palaiseau, France</i>
 
-Top 1 scientific university in France and one of the best in Europe. Specializing in Applied Mathematics and Computer Science.
 
-
-### <strong>Lycée Pierre de Fermat<\strong>, B.S. Mathematics, Physics, Chemistry
+### <strong>Lycée Pierre de Fermat</strong>, B.S. Mathematics, Physics, Chemistry
 #### <i>Toulouse, France</i>
-
-Top 10 French “classes preparatoires” two years of intense scientific classes (around 17 hours of work a day). Participated to the International Chemistry Olympiad (IChO) preparation for the French team.
 
 
 ## <span style="color: #06467D;">Experience</span>
