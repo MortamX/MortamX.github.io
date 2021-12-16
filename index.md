@@ -15,7 +15,7 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 ### <strong>Lycée Pierre de Fermat</strong>, B.S. Mathematics, Physics, Chemistry
 #### <i>Toulouse, France</i>
 
-<hr style="width:5px;color:gray">
+<hr style="height:2px;color:#4B5A88">
 
 ## <span style="color: #06467D;">Experience</span>
 
