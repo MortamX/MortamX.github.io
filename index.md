@@ -6,19 +6,20 @@ Born in Mexico, I grew up in the French countryside (Gers) before successfully e
 
 ## <span style="color: #06467D;">Education</span>
 
-### Ecole Polytechnique, (Palaiseau, France)
+### Ecole Polytechnique, M.Sc. Applied Mathematics
+##### <i>Palaiseau, France</i>
 
 Top 1 scientific university in France and one of the best in Europe. Specializing in Applied Mathematics and Computer Science.
 
 
-### Lycée Pierre de Fermat, (Toulouse, France)
+### Lycée Pierre de Fermat, B.S. Mathematics, Physics, Chemistry (Toulouse, France)
 
-Top 10 French “classes preparatoires” two years of intense scientific classes (around 17 hours of work a day. Participated to the International Chemistry Olympiad (IChO) preparation for the French team.
+Top 10 French “classes preparatoires” two years of intense scientific classes (around 17 hours of work a day). Participated to the International Chemistry Olympiad (IChO) preparation for the French team.
 
 
-## <span style="color: #2B3D5E;">Experience</span>
+## <span style="color: #134AAA;">Experience</span>
 
-### Research Project, LIMSI (Orsay, France)
+### <span style="color: #D00000;">Research Project</span>, LIMSI (Orsay, France)
 
 I created my own solution for the word alignment problem called Optimal Transport for Cross-lingual Word Alignments.
 
